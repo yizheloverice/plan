@@ -1,0 +1,92 @@
+{
+ "Hong Kong International Airport, HK": {
+  "lat": 22.3125986,
+  "lon": 113.9172999,
+  "display_name": "香港國際機場 Hong Kong International Airport, 駿運路 Chun Wan Road, 赤鱲角 Chek Lap Kok, 大嶼山 Lantau, 離島區 Islands District, 新界 New Territories, 香港 Hong Kong, 中国"
+ },
+ "Suvarnabhumi Airport, Bangkok": {
+  "lat": 13.721553,
+  "lon": 100.7244682,
+  "display_name": "GO Hotel Bangkok Suvarnabhumi Airport, ถนนลาดกระบัง, แขวงลาดกระบัง, เขตลาดกระบัง, กรุงเทพมหานคร, 10520, ประเทศไทย"
+ },
+ "Phuket International Airport": {
+  "lat": 8.110132,
+  "lon": 98.3058153,
+  "display_name": "ท่าอากาศยานนานาชาติภูเก็ต, ถนนโยธา, ตำบลไม้ขาว, ป่าคลอก, อำเภอถลาง, จังหวัดภูเก็ต, 83110, ประเทศไทย"
+ },
+ "Patong Beach, Phuket, Thailand": {
+  "lat": 7.896632,
+  "lon": 98.2954295,
+  "display_name": "หาดป่าตอง, ป่าตอง, ตำบลป่าตอง, อำเภอกะทู้, จังหวัดภูเก็ต, ประเทศไทย"
+ },
+ "Big Buddha, Phuket, Thailand": {
+  "lat": 7.8275211,
+  "lon": 98.3124447,
+  "display_name": "Big Buddha, ซอยยอดเสน่ห์ 1, ฉลอง, ตำบลกะรน, อำเภอเมืองภูเก็ต, จังหวัดภูเก็ต, 83100, ประเทศไทย"
+ },
+ "Wat Chalong, Phuket, Thailand": {
+  "lat": 7.8462631,
+  "lon": 98.3374691,
+  "display_name": "Wat Chalong, ถนนเจ้าฟ้าตะวันตก, บ้านฉลอง, ฉลอง, ตำบลฉลอง, อำเภอเมืองภูเก็ต, จังหวัดภูเก็ต, 83000, ประเทศไทย"
+ },
+ "Old Town Phuket, Thailand": {
+  "lat": 7.8847774,
+  "lon": 98.3892206,
+  "display_name": "เมืองเก่าภูเก็ต, ชุมชนสามัคคีสามกอง, เทศบาลนครภูเก็ต, อำเภอเมืองภูเก็ต, จังหวัดภูเก็ต, 83000, ประเทศไทย"
+ },
+ "Karon Viewpoint, Phuket, Thailand": {
+  "lat": 7.7972523,
+  "lon": 98.3021839,
+  "display_name": "Karon View Point, กะตะใสยวน, หาดกะตะน้อย, บ้านกะตะ, กะรน, ตำบลกะรน, อำเภอเมืองภูเก็ต, จังหวัดภูเก็ต, 83100, ประเทศไทย"
+ },
+ "Rassada Pier, Phuket, Thailand": {
+  "lat": 7.8728704,
+  "lon": 98.4147833,
+  "display_name": "ท่าเรือ รัษฏา, Srisana, Rassada Harbour, รัษฎา, ตำบลรัษฎา, เทศบาลตำบลรัษฎา, อำเภอเมืองภูเก็ต, จังหวัดภูเก็ต, 83000, ประเทศไทย"
+ },
+ "Kata Beach, Phuket, Thailand": {
+  "lat": 7.81936,
+  "lon": 98.29805,
+  "display_name": "หาดกะตะ, กะรน, ตำบลกะรน, อำเภอเมืองภูเก็ต, จังหวัดภูเก็ต, ประเทศไทย"
+ },
+ "Bangla Road, Patong, Phuket, Thailand": {
+  "lat": 7.8935993,
+  "lon": 98.2965579,
+  "display_name": "ถนนบางลา, ป่าตอง, ตำบลป่าตอง, อำเภอกะทู้, จังหวัดภูเก็ต, 83159, ประเทศไทย"
+ },
+ "Ao Po Pier, Phuket, Thailand": {
+  "lat": 8.0593196,
+  "lon": 98.4362597,
+  "display_name": "ท่าเรืออ่าวปอ, ภก.4007, ตำบลป่าคลอก, ป่าคลอก, อำเภอถลาง, จังหวัดภูเก็ต, ประเทศไทย"
+ },
+ "James Bond Island, Phang Nga, Thailand": {
+  "lat": 8.275422,
+  "lon": 98.5005775,
+  "display_name": "เขาตาปู, จังหวัดพังงา, ประเทศไทย"
+ },
+ "Ko Panyi, Phang Nga, Thailand": {
+  "lat": 8.3358556,
+  "lon": 98.5028962,
+  "display_name": "เกาะปันหยี, บางเตย, อำเภอเมืองพังงา, จังหวัดพังงา, ประเทศไทย"
+ },
+ "Hong Island, Phang Nga, Thailand": {
+  "lat": 8.2225946,
+  "lon": 98.5006729,
+  "display_name": "Hong Island kayaking, จังหวัดพังงา, ประเทศไทย"
+ },
+ "Wat Pho, Bangkok, Thailand": {
+  "lat": 13.7463456,
+  "lon": 100.4927381,
+  "display_name": "วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร, วงเวียน รด., ชุมชนท่าเตียน, แขวงพระบรมมหาราชวัง, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+ },
+ "Wat Arun, Bangkok, Thailand": {
+  "lat": 13.7438976,
+  "lon": 100.4885137,
+  "display_name": "วัดอรุณ, 158, ถนนวังเดิม, แขวงวัดอรุณ, เขตบางกอกใหญ่, กรุงเทพมหานคร, 10600, ประเทศไทย"
+ },
+ "Khaosan Road, Bangkok, Thailand": {
+  "lat": 13.7589052,
+  "lon": 100.4972746,
+  "display_name": "ถนนข้าวสาร, แขวงตลาดยอด, เขตพระนคร, กรุงเทพมหานคร, 10200, ประเทศไทย"
+ }
+}

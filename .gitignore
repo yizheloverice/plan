@@ -1,0 +1,16 @@
+# 本地环境/敏感文件(不进远程)
+.env
+.env.*
+cookies.json
+*.cookie*
+*secrets*.json
+
+# 本地编辑器与工具
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 临时/缓存
+*.log
+.cache/
