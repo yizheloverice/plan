@@ -7,17 +7,7 @@
   "theme": "illustrated",
   "assets": "themes/assets/stock"
  },
- "_stock_todo": [
-  "cover.kick",
-  "cover.kick_en",
-  "themes.illustrated.cover.zh",
-  "themes.illustrated.cover.en",
-  "themes.illustrated.cover.sub",
-  "days.*.theme",
-  "days.*.en",
-  "days.*.mark",
-  "end.line"
- ],
+ "_stock_todo": [],
  "cover": {
   "kick": "普吉 · 皮皮岛 2026 国庆",
   "kick_en": "PHUKET · PHI PHI",
@@ -34,39 +24,39 @@
    "mark": "晚"
   },
   "2026-09-27": {
-   "theme": "山海",
-   "en": "SEA & HILL",
-   "mark": "朝"
+   "theme": "躺平",
+   "en": "CHILL DAY",
+   "mark": "泳"
   },
   "2026-09-28": {
-   "theme": "登岛",
-   "en": "TO THE ISLE",
-   "mark": "航"
-  },
-  "2026-09-29": {
-   "theme": "环岛",
-   "en": "ISLE ROUND",
-   "mark": "湾"
-  },
-  "2026-09-30": {
-   "theme": "海盗",
-   "en": "PIRATE",
-   "mark": "潮"
-  },
-  "2026-10-01": {
    "theme": "渔市",
    "en": "SEAFOOD",
    "mark": "枪"
   },
+  "2026-09-29": {
+   "theme": "灯塔",
+   "en": "LIGHTHOUSE",
+   "mark": "暮"
+  },
+  "2026-09-30": {
+   "theme": "登岛",
+   "en": "TO THE ISLE",
+   "mark": "航"
+  },
+  "2026-10-01": {
+   "theme": "海盗",
+   "en": "PIRATE",
+   "mark": "潮"
+  },
   "2026-10-02": {
-   "theme": "奇湾",
-   "en": "STRANGE BAY",
-   "mark": "舟"
+   "theme": "拳台",
+   "en": "MUAY THAI",
+   "mark": "拳"
   },
   "2026-10-03": {
-   "theme": "市集",
-   "en": "MARKET",
-   "mark": "暮"
+   "theme": "夜集",
+   "en": "NIGHT WALK",
+   "mark": "闲"
   },
   "2026-10-04": {
    "theme": "归程",
@@ -90,26 +80,26 @@
      "hero": "plane"
     },
     "2026-09-27": {
-     "hero": "stock-temple"
+     "hero": "stock-beach"
     },
     "2026-09-28": {
-     "hero": "stock-luggage"
+     "hero": "stock-market"
     },
     "2026-09-29": {
-     "hero": "stock-beach"
+     "hero": "stock-lighthouse"
     },
     "2026-09-30": {
-     "hero": "stock-viewpoint"
+     "hero": "stock-ferry"
     },
     "2026-10-01": {
-     "hero": "stock-beach"
+     "hero": "stock-mountain-lake",
+     "feature": true
     },
     "2026-10-02": {
-     "hero": "stock-mountain-lake"
+     "hero": "stock-beach"
     },
     "2026-10-03": {
-     "hero": "stock-wat-arun",
-     "feature": true
+     "hero": "stock-night-skyline"
     },
     "2026-10-04": {
      "hero": "plane"
