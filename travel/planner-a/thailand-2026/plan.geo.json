@@ -13,19 +13,19 @@
   ],
   "pace": 3,
   "budget": "mid",
-  "notes": "用户已购票:UO702(香港快运,HKG→BKK)、SL753(泰国狮子航,HKT→DMK)、FD552(泰国亚航,DMK→CKG 重庆);曼谷两次均为转机,0 天停留;主玩普吉+皮皮岛;皮皮岛住通赛湾(9/30-10/2),普吉前段卡塔/卡隆 4 晚(9/26-9/30 退),收尾芭东 2 晚(10/2-10/4);玛雅湾 8/1-9/30 年度关闭、10/1 重开,10/1 海盗船航线重开首日即收复玛雅湾;拉威海鲜市场必去;皮皮岛海盗船必体验(官网 1500 THB 含国家公园费);实弹射击一次;芭东看一场泰拳"
+  "notes": "用户已购票:UO702(香港快运,HKG→BKK)、SL753(泰国狮子航,HKT→DMK)、FD552(泰国亚航,DMK→CKG 重庆);曼谷两次均为转机,0 天停留;主玩普吉+皮皮岛;三人同行(3 人);酒店已订:卡隆 兰花温泉度假酒店 4 晚(9/26-9/30)、皮皮岛小屋酒店(Cabana)2 晚(9/30-10/2)、芭东 尊尚芭东套房(Elite Suites)2 晚(10/2-10/4);玛雅湾 8/1-9/30 年度关闭、10/1 重开,10/1 海盗船航线重开首日即收复玛雅湾;拉威海鲜市场必去;皮皮岛海盗船必体验(官网 1500 THB 含国家公园费);实弹射击一次;芭东看一场泰拳"
  },
  "meta": {
   "dates": "2026-09-26 → 2026-10-04",
-  "party": "2 adults",
+  "party": "3 adults",
   "route": "香港( HKG )→ 曼谷素万那普( BKK )转机 → 普吉( HKT )→ 皮皮岛 → 普吉(芭东) → 廊曼( DMK )转机 → 重庆( CKG )",
-  "budget_total": "≈12,000 CNY/2人(除已购机票,UO702/VZ316/SL753/FD552 另计)",
+  "budget_total": "≈14,600 CNY/3人(除已购机票,UO702/VZ316/SL753/FD552 另计)",
   "fx": "1 CNY ≈ 4.92 THB (open.er-api.com, 2026-09-01)",
-  "generated": "2026-09-06",
-  "self_check": "自检:发现并修复 6 处"
+  "generated": "2026-09-16",
+  "self_check": "自检:发现并修复 7 处"
  },
  "decisions": [
-  "行程翻转(主因):玛雅湾 2026-08-01 ~ 09-30 年度生态关闭,10/1 重开。原'先皮皮后普吉'会全程错过;改为 9/26-9/29 普吉(卡塔/卡隆,4 晚)→ 9/30 快艇上岛 → 10/1 海盗船(玛雅湾重开首日)→ 10/2 离岛→芭东(2 晚)→ 10/4 返程",
+  "行程翻转(主因):玛雅湾 2026-08-01 ~ 09-30 年度生态关闭,10/1 重开。原'先皮皮后普吉'会全程错过;改为 9/26-9/29 普吉(卡隆,4 晚)→ 9/30 快艇上岛 → 10/1 海盗船(玛雅湾重开首日)→ 10/2 离岛→芭东(2 晚)→ 10/4 返程",
   "玛雅湾由 10/1 海盗船覆盖:Phi Phi Pirate Boat 官方航线 12:00-19:30 = 玛雅湾 + 猴滩 + 翡翠湖(Pileh)浮潜 + 皮划艇 + 船上酒吧 + 海上日落 + 船餐,官网 1500 THB/人且含国家公园费(玛雅湾门票已包)—— 10/1 重开当日上午 09:00 快艇上岛、次日即访,是此行必去点的唯一主覆盖",
   "10/1 海盗船集合点:通赛湾 PP Pirate Bar 11:30 集合(官网确认,12:00 出发 19:30 回港);若官网满员,替代方案为通赛湾长尾船半日(玛雅湾+翡翠湖,2500-3500 THB/船)+ 上午错峰",
   "9/30 快艇 09:00 拉萨达→通赛湾(10:00 到,Andaman Wave Master 800 THB/人):上午登岛,午饭后 check-in,下午泳池/海滩休整,次日海盗船前体力储备充足",
@@ -33,10 +33,11 @@
   "9/30 改为登岛日(用户 2026-09-06 指令):原 C 方案(大佛+查龙寺+老城+Chillva 夜市)与第三待定项(丛林飞跃/攀牙湾)全部让位 —— 普吉段只剩 4 晚,文化线不再补排;10/3 芭东自由日(海滩/SPA/夜市)收尾",
   "9/29 雅牛海滩皮划艇+神仙半岛日落:两块相距 1km 打包;皮划艇 100 THB/h(SUP 300、浮潜装备 100),日落约 18:20,提前 1h 到占位;9/30 早班快艇,当晚早回早睡",
   "9/28 拉威海鲜市场+实弹射击:拉威 12:30 前到海鲜最新鲜(安曼达 Amanda『小红书 1500 套餐』+ 加工约 550 THB);卡塔射击 3 枪套餐 3500 THB/人(护照原件,18 岁+)—— 当天顺路,不自驾,全 Grab/包车",
-  "9/27 躺平日:酒店泳池 → 卡塔海滩 → 卡塔/卡隆海边烧烤大排档,调整长途飞行节奏",
+  "9/27 躺平日:酒店泳池 → 卡隆海滩 → 卡隆海边烧烤大排档,调整长途飞行节奏",
   "快艇班次核对:9/30 09:00(10:00 到)去程 + 10/2 11:00(12:00 到)回程,均为 Andaman Wave Master 现售班次;误船备选:去 11:00(12:00 到)/ 回 13:00(14:00 到)",
   "语言:全部文本中文为主,机场与航班代号旁加中文(香港(HKG)/曼谷素万那普(BKK)/普吉(HKT)/廊曼(DMK)/重庆(CKG);UO702 香港快运、SL753 泰国狮子航、FD552 泰国亚航)",
-  "自检:发现并修复 6 处:玛雅湾重开日(10/1)与海盗船航线、海盗船官网价含国家公园费、快艇班次(10/1 09:00 / 10/3 11:00)、Chillva 周三营业、Patong 周六场次、雅牛皮划艇价格"
+  "酒店已订(三人同行,2026-09-16 更新):9/26-9/30 卡隆 Phuket Orchid Resort and Spa(兰花温泉度假酒店,4 晚三人总计 ¥2085);9/30-10/2 通赛湾 Phi Phi Island Cabana Hotel(皮皮岛小屋酒店,2 晚 ¥1047);10/2-10/4 芭东 Elite Suites Patong(尊尚芭东套房酒店,原 Bauman Residence,2 晚 ¥1028)—— 三段位置均贴合行程(卡隆居中、通赛湾码头即达、拳馆 1 km),住宿合计 ¥4160",
+  "自检:发现并修复 7 处:玛雅湾重开日与海盗船航线、海盗船官网价含国家公园费、快艇班次(9/30 09:00 / 10/2 11:00)、泰拳场次(10/2 周五)、雅牛皮划艇价格、酒店实订替换与三人口径重算、住宿点由卡塔改卡隆"
  ],
  "checklist": [
   {
@@ -93,7 +94,7 @@
    "deadline": "T-3 · 9/23 后 72h 内",
    "price": "免费",
    "link": "https://tdac.immigration.go.th",
-   "note": "第一晚住宿:卡塔酒店"
+   "note": "第一晚住宿:卡隆 兰花温泉度假酒店(Phuket Orchid Resort and Spa)"
   },
   {
    "item": "随身小包(无托运)4 段航司 7kg 手提标准;转机免取行李",
@@ -115,6 +116,13 @@
    "price": "",
    "link": "",
    "note": ""
+  },
+  {
+   "item": "三家酒店确认单(兰花温泉/Cabana/尊尚芭东)存手机+打印一份",
+   "deadline": "T-1 · 出发前",
+   "price": "已订 ¥4160(三人 8 晚)",
+   "link": "",
+   "note": "9/26 00:45 深夜到店,务必提前告知晚到;9/30 退房后行李随车去码头"
   }
  ],
  "legs": [
@@ -203,10 +211,10 @@
    "date": "2026-09-26",
    "tz": "Asia/Bangkok",
    "city": "香港(HKG) → 曼谷(BKK)转机 → 普吉(HKT)",
-   "label": "中转日 · 深夜抵达卡塔",
+   "label": "中转日 · 深夜抵达卡隆",
    "rain_alt": "普吉机场晚到 → 酒店周边简餐;转机延误 → 宿机场边,次日早班",
    "late_cut": "UO702 晚点错过 VZ316 → 改 9/27 早班机(DMK→HKT),9/27 上午整体后移",
-   "ribbon": "香港(HKG) →(16:55 起飞·UO702 香港快运)→ 曼谷素万那普(BKK)18:55 →(22:00·VZ316 越捷)→ 普吉(HKT)23:35 →(40 分钟车)→ 卡塔/卡隆酒店 00:45",
+   "ribbon": "香港(HKG) →(16:55 起飞·UO702 香港快运)→ 曼谷素万那普(BKK)18:55 →(22:00·VZ316 越捷)→ 普吉(HKT)23:35 →(40 分钟车)→ 卡隆·兰花温泉酒店 00:45",
    "timeline": [
     {
      "t": "13:30-14:30",
@@ -237,10 +245,10 @@
     },
     {
      "t": "23:35-00:45",
-     "what": "普吉(HKT)机场 → 卡塔/卡隆酒店(车 40 分钟,约 800-900 THB)",
+     "what": "普吉(HKT)机场 → 卡隆酒店(兰花温泉,车 45 分钟,约 900-1000 THB)",
      "kind": "hop",
      "verify": "est",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=8.110132%2C98.305815&destination=7.819360%2C98.298050&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=8.110132%2C98.305815&destination=7.834382%2C98.296173&travelmode=driving"
     },
     {
      "t": "00:45-01:15",
@@ -271,10 +279,10 @@
      "mode": "fly"
     },
     {
-     "name": "卡塔海滩酒店",
-     "query": "Kata Beach, Phuket, Thailand",
-     "lat": 7.81936,
-     "lon": 98.29805,
+     "name": "兰花温泉酒店(卡隆)",
+     "query": "Phuket Orchid Resort and Spa, Karon, Phuket, Thailand",
+     "lat": 7.834382,
+     "lon": 98.296173,
      "mode": "drive"
     }
    ],
@@ -283,11 +291,11 @@
   {
    "date": "2026-09-27",
    "tz": "Asia/Bangkok",
-   "city": "普吉(卡塔/卡隆)",
+   "city": "普吉(卡隆)",
    "label": "酒店躺平日 · 泳池/沙滩/烧烤",
    "rain_alt": "泳池照常;下午雨 → 酒店 SPA/咖啡;烧烤改室内大排档",
    "late_cut": "日出前无安排,无晚退风险",
-   "ribbon": "卡塔酒店(睡到自然醒) → 酒店泳池 → 午餐 → 卡塔海滩(躺椅/游泳) → 卡塔日落(18:21) → 卡塔/卡隆海边烧烤大排档",
+   "ribbon": "兰花温泉酒店(睡到自然醒) → 酒店泳池 → 午餐 → 卡隆海滩(躺椅/游泳) → 卡隆日落(18:21) → 卡隆海边烧烤大排档",
    "timeline": [
     {
      "t": "09:30-11:00",
@@ -307,48 +315,48 @@
     },
     {
      "t": "14:00-14:10",
-     "what": "步行至卡塔海滩",
+     "what": "步行至卡隆海滩",
      "kind": "hop",
      "verify": "est",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.820000%2C98.296000&travelmode=walking"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.834382%2C98.296173&destination=7.843957%2C98.293425&travelmode=walking"
     },
     {
      "t": "14:10-17:00",
-     "what": "卡塔海滩:躺椅、游泳、散步(旺季前人流少;红旗禁泳)",
+     "what": "卡隆海滩:躺椅、游泳、散步(旺季前人流少;红旗禁泳)",
      "kind": "free",
      "tag": "pinned",
      "note": "下午浪小,水清"
     },
     {
      "t": "17:30-18:30",
-     "what": "卡塔日落(约 18:21;海滩西向正对日落)",
+     "what": "卡隆日落(约 18:21;海滩西向正对日落)",
      "kind": "free",
      "tag": "skippable"
     },
     {
      "t": "19:00-21:00",
-     "what": "晚餐 · 卡塔/卡隆海边烧烤大排档(海鲜+烤串+啤酒)",
+     "what": "晚餐 · 卡隆海边烧烤大排档(海鲜+烤串+啤酒)",
      "kind": "meal",
      "tag": "pinned"
     }
    ],
    "stops": [
     {
-     "name": "卡塔酒店",
-     "query": "Kata Beach, Phuket, Thailand",
-     "lat": 7.81936,
-     "lon": 98.29805
+     "name": "兰花温泉酒店(卡隆)",
+     "query": "Phuket Orchid Resort and Spa, Karon, Phuket, Thailand",
+     "lat": 7.834382,
+     "lon": 98.296173
     },
     {
-     "name": "卡塔海滩",
-     "query": "Kata Beach, Phuket, Thailand",
-     "lat": 7.82,
-     "lon": 98.296,
+     "name": "卡隆海滩",
+     "query": "Karon Beach, Phuket, Thailand",
+     "lat": 7.843957,
+     "lon": 98.293425,
      "mode": "walk"
     }
    ],
    "sun": "天亮 05:54 · ☀ 06:14 / 🌇 18:21 · +07 · sunrise-sunset.org",
-   "day_map": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.820000%2C98.296000&travelmode=walking"
+   "day_map": "https://www.google.com/maps/dir/?api=1&origin=7.834382%2C98.296173&destination=7.843957%2C98.293425&travelmode=walking"
   },
   {
    "date": "2026-09-28",
@@ -357,21 +365,21 @@
    "label": "拉威海鲜午餐 + 卡塔实弹射击",
    "rain_alt": "射击场有棚;拉威市场雨棚海鲜照吃;日落改海边",
    "late_cut": "10:20 未出发 → 拉威+射击照旧,日落取消",
-   "ribbon": "卡塔酒店 →车 25 分→ 拉威海鲜市场(午餐:安曼达1500套餐) →车 25 分→ 卡塔射击场(3 枪 1h) →车 15 分→ 卡塔酒店 → 卡塔日落 → 海边晚餐",
+   "ribbon": "兰花温泉酒店(卡隆) →车 25 分→ 拉威海鲜市场(午餐:安曼达 1500 套餐) →车 25 分→ 卡塔射击场(3 枪 1h) →车 10 分→ 卡隆酒店 → 卡隆日落 → 海边晚餐",
    "timeline": [
     {
      "t": "09:30-10:00",
-     "what": "早餐 + 出发(包车/Grab,车 25-30 分)",
+     "what": "早餐 + 出发(包车/Grab,车 20-25 分)",
      "kind": "hop",
      "verify": "est",
      "tag": "pinned",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.775740%2C98.328920&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.834382%2C98.296173&destination=7.775740%2C98.328920&travelmode=driving"
     },
     {
      "t": "10:30-12:30",
      "what": "拉威海鲜市场:直奔安曼达(Amanda)摊位,直接说『小红书 1500 套餐』(2 小青龙+2 蟹+6 皮皮虾+蛏子+鱿鱼+蛤蜊,淡季可换黑虎虾);买后旁店加工(加工费约 550 THB,不送饭)",
      "kind": "anchor",
-     "price": "1500-2500 THB/两人(参考)",
+     "price": "2000-3000 THB/三人(参考)",
      "tag": "pinned",
      "note": "XHS·阿昕 468 赞:1500 套餐对照照片买即可;避雷入口右手边 P2 摊(讲价被骂);每摊都懂中文,砍价失败就走不纠缠"
     },
@@ -397,10 +405,10 @@
     },
     {
      "t": "15:30-16:00",
-     "what": "车行回卡塔酒店",
+     "what": "车行回卡隆酒店(约 10 分)",
      "kind": "hop",
      "verify": "est",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.819360%2C98.298050&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.834382%2C98.296173&travelmode=driving"
     },
     {
      "t": "16:00-17:30",
@@ -409,22 +417,22 @@
     },
     {
      "t": "17:45-18:30",
-     "what": "卡塔日落(约 18:20)",
+     "what": "卡隆日落(约 18:20)",
      "kind": "free",
      "tag": "skippable"
     },
     {
      "t": "19:00-20:30",
-     "what": "晚餐 · 卡塔/Karon 海边",
+     "what": "晚餐 · 卡隆海边",
      "kind": "meal"
     }
    ],
    "stops": [
     {
-     "name": "卡塔酒店",
-     "query": "Kata Beach, Phuket, Thailand",
-     "lat": 7.81936,
-     "lon": 98.29805
+     "name": "兰花温泉酒店(卡隆)",
+     "query": "Phuket Orchid Resort and Spa, Karon, Phuket, Thailand",
+     "lat": 7.834382,
+     "lon": 98.296173
     },
     {
      "name": "拉威海鲜市场",
@@ -441,15 +449,15 @@
      "mode": "drive"
     },
     {
-     "name": "卡塔酒店",
-     "query": "Kata Beach, Phuket, Thailand",
-     "lat": 7.81936,
-     "lon": 98.29805,
+     "name": "兰花温泉酒店(卡隆)",
+     "query": "Phuket Orchid Resort and Spa, Karon, Phuket, Thailand",
+     "lat": 7.834382,
+     "lon": 98.296173,
      "mode": "drive"
     }
    ],
    "sun": "天亮 05:54 · ☀ 06:13 / 🌇 18:20 · +07 · sunrise-sunset.org",
-   "day_map": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.819360%2C98.298050&travelmode=walking&waypoints=7.775740%2C98.328920%7C7.819360%2C98.298050"
+   "day_map": "https://www.google.com/maps/dir/?api=1&origin=7.834382%2C98.296173&destination=7.834382%2C98.296173&travelmode=walking&waypoints=7.775740%2C98.328920%7C7.819360%2C98.298050"
   },
   {
    "date": "2026-09-29",
@@ -458,7 +466,7 @@
    "label": "雅牛海滩皮划艇 + 神仙半岛日落",
    "rain_alt": "暴雨 → 泳池+SPA;傍晚雨 → 神仙半岛改次日清晨(无日落则放弃)",
    "late_cut": "14:30 未出发 → 只去神仙半岛等日落",
-   "ribbon": "卡塔酒店 →车 25 分→ 雅牛海滩(皮划艇/浮潜) →车 5 分→ 神仙半岛(日落 18:20) →车 25 分→ 卡塔酒店(晚餐)",
+   "ribbon": "兰花温泉酒店(卡隆) →车 20 分→ 雅牛海滩(皮划艇/浮潜) →车 5 分→ 神仙半岛(日落 18:20) →车 20 分→ 卡隆酒店(晚餐)",
    "timeline": [
     {
      "t": "09:30-12:30",
@@ -468,16 +476,16 @@
     },
     {
      "t": "12:30-13:30",
-     "what": "午餐 · 卡塔/卡隆",
+     "what": "午餐 · 卡隆",
      "kind": "meal"
     },
     {
      "t": "14:00-14:30",
-     "what": "车行雅牛海滩(Ya Nui,约 25 分)",
+     "what": "车行雅牛海滩(Ya Nui,约 20 分)",
      "kind": "hop",
      "verify": "est",
      "tag": "pinned",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.767676%2C98.306692&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.834382%2C98.296173&destination=7.767676%2C98.306692&travelmode=driving"
     },
     {
      "t": "14:30-17:00",
@@ -504,23 +512,23 @@
     },
     {
      "t": "18:40-19:10",
-     "what": "车回卡塔",
+     "what": "车回卡隆",
      "kind": "hop",
      "verify": "est",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.758869%2C98.303392&destination=7.819360%2C98.298050&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.758869%2C98.303392&destination=7.834382%2C98.296173&travelmode=driving"
     },
     {
      "t": "19:30-21:00",
-     "what": "晚餐 · 卡塔/卡隆海边",
+     "what": "晚餐 · 卡隆海边",
      "kind": "meal"
     }
    ],
    "stops": [
     {
-     "name": "卡塔酒店",
-     "query": "Kata Beach, Phuket, Thailand",
-     "lat": 7.81936,
-     "lon": 98.29805
+     "name": "兰花温泉酒店(卡隆)",
+     "query": "Phuket Orchid Resort and Spa, Karon, Phuket, Thailand",
+     "lat": 7.834382,
+     "lon": 98.296173
     },
     {
      "name": "雅牛海滩",
@@ -537,15 +545,15 @@
      "mode": "drive"
     },
     {
-     "name": "卡塔酒店",
-     "query": "Kata Beach, Phuket, Thailand",
-     "lat": 7.81936,
-     "lon": 98.29805,
+     "name": "兰花温泉酒店(卡隆)",
+     "query": "Phuket Orchid Resort and Spa, Karon, Phuket, Thailand",
+     "lat": 7.834382,
+     "lon": 98.296173,
      "mode": "drive"
     }
    ],
    "sun": "天亮 05:54 · ☀ 06:13 / 🌇 18:20 · +07 · sunrise-sunset.org",
-   "day_map": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.819360%2C98.298050&travelmode=walking&waypoints=7.767676%2C98.306692%7C7.758869%2C98.303392"
+   "day_map": "https://www.google.com/maps/dir/?api=1&origin=7.834382%2C98.296173&destination=7.834382%2C98.296173&travelmode=walking&waypoints=7.767676%2C98.306692%7C7.758869%2C98.303392"
   },
   {
    "date": "2026-09-30",
@@ -554,16 +562,16 @@
    "label": "快艇上岛 · 通赛湾 · 下午休整",
    "travel_day": true,
    "rain_alt": "雨天照常;下午雨 → 泳池/SPA/酒吧",
-   "late_cut": "误船 → 11:00 快艇(12:00 到),register晚上不变",
-   "ribbon": "卡塔酒店 →车 35 分→ 拉萨达码头 →(09:00 快艇 1h)→ 通赛湾 →步行→ 通赛湾酒店(寄存/入住) →午餐→ 下午休整 → 通赛湾日落(18:18) → 晚餐步行街",
+   "late_cut": "误船 → 11:00 快艇(12:00 到),当日晚间安排不变",
+   "ribbon": "兰花温泉酒店(卡隆) →车 40 分→ 拉萨达码头 →(09:00 快艇 1h)→ 通赛湾 →步行→ 通赛湾酒店(寄存/入住) →午餐→ 下午休整 → 通赛湾日落(18:18) → 晚餐步行街",
    "timeline": [
     {
      "t": "07:30-08:20",
-     "what": "退房 + 车至拉萨达码头(约 35 分;行李随车)",
+     "what": "退房 + 车至拉萨达码头(约 40 分;行李随车)",
      "kind": "hop",
      "verify": "est",
      "tag": "pinned",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.819360%2C98.298050&destination=7.872870%2C98.414783&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.834382%2C98.296173&destination=7.872870%2C98.414783&travelmode=driving"
     },
     {
      "t": "08:20-09:00",
@@ -621,10 +629,10 @@
    ],
    "stops": [
     {
-     "name": "卡塔酒店",
-     "query": "Kata Beach, Phuket, Thailand",
-     "lat": 7.81936,
-     "lon": 98.29805,
+     "name": "兰花温泉酒店(卡隆)",
+     "query": "Phuket Orchid Resort and Spa, Karon, Phuket, Thailand",
+     "lat": 7.834382,
+     "lon": 98.296173,
      "mode": "drive"
     },
     {
@@ -658,7 +666,7 @@
    "label": "海盗船全天巡航 · 玛雅湾重开首日",
    "rain_alt": "海盗船全年运营、小雨照常;暴雨 → 换 10/2 上午班(需改离岛快艇),或改通赛湾长尾船半日",
    "late_cut": "海盗船未购成 → 通赛湾长尾船半日(玛雅湾+翡翠湖 2500-3500 THB/船)替代,下午海滩",
-   "ribbon": "通赛湾(上午自由) → 11:30 PP Pirate Bar 集合 →(12:00 出发 7.5h)→ 玛雅湾(重开次日) → 猴滩 → 翡翠湖 Pileh(浮潜/皮划艇) → 海上日落+船餐 → 19:30 回港 → 通赛湾晚餐休整",
+   "ribbon": "通赛湾(上午自由) → 11:30 PP Pirate Bar 集合 →(12:00 出发 7.5h)→ 玛雅湾(重开首日) → 猴滩 → 翡翠湖 Pileh(浮潜/皮划艇) → 海上日落+船餐 → 19:30 回港 → 通赛湾晚餐休整",
    "timeline": [
     {
      "t": "08:00-10:00",
@@ -815,7 +823,7 @@
      "kind": "hop",
      "verify": "est",
      "tag": "pinned",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.872870%2C98.414783&destination=7.896632%2C98.295430&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.872870%2C98.414783&destination=7.899096%2C98.302525&travelmode=driving"
     },
     {
      "t": "12:50-13:30",
@@ -827,7 +835,7 @@
      "what": "步行至芭东海滩",
      "kind": "hop",
      "verify": "est",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.896632%2C98.295430&destination=7.896632%2C98.295430&travelmode=walking"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.899096%2C98.302525&destination=7.896632%2C98.295430&travelmode=walking"
     },
     {
      "t": "13:40-17:00",
@@ -865,7 +873,7 @@
      "what": "车回酒店休息(次日 06:45 出发机场)",
      "kind": "hop",
      "verify": "est",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.897141%2C98.304510&destination=7.896632%2C98.295430&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.897141%2C98.304510&destination=7.899096%2C98.302525&travelmode=driving"
     }
    ],
    "stops": [
@@ -884,10 +892,10 @@
      "mode": "boat"
     },
     {
-     "name": "芭东酒店",
-     "query": "Patong Beach, Phuket, Thailand",
-     "lat": 7.896632,
-     "lon": 98.29543,
+     "name": "尊尚芭东套房酒店",
+     "query": "Elite Suites Patong, Phuket, Thailand",
+     "lat": 7.899096,
+     "lon": 98.302525,
      "mode": "drive"
     },
     {
@@ -905,10 +913,10 @@
      "mode": "drive"
     },
     {
-     "name": "芭东酒店",
-     "query": "Patong Beach, Phuket, Thailand",
-     "lat": 7.896632,
-     "lon": 98.29543,
+     "name": "尊尚芭东套房酒店",
+     "query": "Elite Suites Patong, Phuket, Thailand",
+     "lat": 7.899096,
+     "lon": 98.302525,
      "mode": "drive"
     }
    ],
@@ -944,7 +952,7 @@
      "what": "步行至芭东海滩",
      "kind": "hop",
      "verify": "est",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.896632%2C98.295430&destination=7.896632%2C98.295430&travelmode=walking"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.899096%2C98.302525&destination=7.896632%2C98.295430&travelmode=walking"
     },
     {
      "t": "13:40-16:30",
@@ -982,10 +990,10 @@
    ],
    "stops": [
     {
-     "name": "芭东酒店",
-     "query": "Patong Beach, Phuket, Thailand",
-     "lat": 7.896632,
-     "lon": 98.29543
+     "name": "尊尚芭东套房酒店",
+     "query": "Elite Suites Patong, Phuket, Thailand",
+     "lat": 7.899096,
+     "lon": 98.302525
     },
     {
      "name": "芭东海滩",
@@ -996,7 +1004,7 @@
     }
    ],
    "sun": "天亮 05:53 · ☀ 06:13 / 🌇 18:18 · +07 · sunrise-sunset.org",
-   "day_map": "https://www.google.com/maps/dir/?api=1&origin=7.896632%2C98.295430&destination=7.896632%2C98.295430&travelmode=walking"
+   "day_map": "https://www.google.com/maps/dir/?api=1&origin=7.899096%2C98.302525&destination=7.896632%2C98.295430&travelmode=walking"
   },
   {
    "date": "2026-10-04",
@@ -1020,7 +1028,7 @@
      "kind": "hop",
      "verify": "est",
      "tag": "pinned",
-     "link": "https://www.google.com/maps/dir/?api=1&origin=7.896632%2C98.295430&destination=8.110132%2C98.305815&travelmode=driving"
+     "link": "https://www.google.com/maps/dir/?api=1&origin=7.899096%2C98.302525&destination=8.110132%2C98.305815&travelmode=driving"
     },
     {
      "t": "07:40-09:50",
@@ -1052,10 +1060,10 @@
    ],
    "stops": [
     {
-     "name": "芭东酒店",
-     "query": "Patong Beach, Phuket, Thailand",
-     "lat": 7.896632,
-     "lon": 98.29543,
+     "name": "尊尚芭东套房酒店",
+     "query": "Elite Suites Patong, Phuket, Thailand",
+     "lat": 7.899096,
+     "lon": 98.302525,
      "mode": "drive"
     },
     {
@@ -1085,129 +1093,93 @@
  ],
  "hotels": [
   {
-   "base": "卡塔/卡隆 4 晚 (9/26-9/30 转机到达+普吉主住)",
-   "area": "卡塔海滩(Kata)步行 3-5 分",
-   "why": "用户偏好卡伦/卡塔;第一晚 00:45 落地就近入住;5 晚连续不换店;9/28-9/30 南下老城/拉威/雅牛、北上码头都不远;10/1 早班快艇从这走 35 分",
+   "base": "卡隆 4 晚 (9/26-9/30) · 已订",
+   "area": "卡隆海滩(Karon)中段,步行约 5 分到海滩",
+   "why": "已订:普吉岛兰花温泉度假酒店(Phuket Orchid Resort and Spa)——水上乐园+大泳池、亲子友好、5 分到海滩;9/28 南下拉威/9/29 雅牛/9/30 北上拉萨达码头都顺路,4 晚不换店",
    "options": [
     {
-     "name": "The SIS Kata",
-     "band": "~THB 1600-2400/晚",
-     "why": "无边泳池+步行 5 分到 Kata 海滩"
-    },
-    {
-     "name": "Katathani Phuket Beach Resort",
-     "band": "~THB 2000-3000/晚",
-     "why": "直临南海滩,日晒沙滩位"
-    },
-    {
-     "name": "Avista Grande Phuket Karon",
-     "band": "~THB 1300-2000/晚",
-     "why": "卡隆安静区,性价比中上"
+     "name": "Phuket Orchid Resort and Spa(兰花温泉度假酒店)",
+     "band": "已订 · 4 晚三人总计 ¥2085(≈¥521/晚)",
+     "why": "卡隆中段;水乐园(区域最高滑道)+Kids Club、Kanda Spa;步行 5 分到卡隆海滩;离卡塔射击场约 10 分车程"
     }
    ],
-   "links": "https://www.google.com/travel/hotels/Kata+Beach+Phuket+2026-09-26+2026-09-30"
+   "links": "https://www.katagroup.com/orchid/"
   },
   {
-   "base": "皮皮岛 2 晚 (9/30-10/2)",
-   "area": "通赛湾(主选)/长滩(备选)",
-   "why": "通赛湾:码头即达+PP Pirate Bar 集合点步行+夜市+超商最短距离;长滩(The Beach Resort)浮潜更优、更安静,去通赛长尾船 20 铢",
+   "base": "皮皮岛通赛湾 2 晚 (9/30-10/2) · 已订",
+   "area": "通赛湾(码头步行可达)",
+   "why": "已订:皮皮岛小屋酒店(Phi Phi Island Cabana Hotel)——通赛湾地标型度假村,大泳池正对通赛湾与罗达兰湾;码头/PP Pirate Bar 步行即达,10/1 海盗船集合无接驳压力",
    "options": [
     {
-     "name": "Phi Phi Hotel(通赛湾)",
-     "band": "~THB 1200-1800/晚",
-     "why": "码头主街位置优"
-    },
-    {
-     "name": "The Beach Resort Phi Phi(长滩)",
-     "band": "~THB 1100-2500/晚(全景海景)",
-     "why": "门口小鲨鱼点浮潜,风景皮皮岛第一;⚠️ 空调一般、有猴子(小红书)"
-    },
-    {
-     "name": "Tonsai Bay Resort",
-     "band": "~THB 1100-1700/晚",
-     "why": "观景点近,小泳池"
+     "name": "Phi Phi Island Cabana Hotel(皮皮岛小屋酒店)",
+     "band": "已订 · 2 晚三人总计 ¥1047(≈¥524/晚)",
+     "why": "通赛湾位置最佳;泳池景观一流;离步行街/夜市 3-5 分"
     }
    ],
-   "links": "https://www.google.com/travel/hotels/Ko+Phi+Phi+Thailand+2026-09-30+2026-10-02"
+   "links": "https://www.google.com/maps/search/?api=1&query=Phi+Phi+Island+Cabana+Hotel"
   },
   {
-   "base": "芭东 2 晚 (10/2-10/4)",
-   "area": "芭东海滩(Patong,临酒吧街主段)",
-   "why": "收尾两晚:10/2 下午海滩+晚上 21:00 泰拳(Stadium 在芭东),10/3 芭东自由日,10/4 06:45 出发机场(45-55 分);选安静侧翼避开酒吧街噪音",
+   "base": "芭东 2 晚 (10/2-10/4) · 已订",
+   "area": "芭东北(Phangmuang Sai Kor 路,离酒吧街约 1.2 km)",
+   "why": "已订:普吉岛尊尚芭东套房酒店(Elite Suites Patong,原 Bauman Residence)——大泳池+套房,步行可到芭东海滩与 Jungceylon;离 Patong Boxing Stadium 约 1 km,10/2 晚看拳方便;10/4 06:45 出发机场",
    "options": [
     {
-     "name": "Baumanburi Patong",
-     "band": "~THB 1500-2500/晚",
-     "why": "海滩边,泳池,距泰拳馆 5 分钟车"
-    },
-    {
-     "name": "Sea Sun Sand Resort & Spa",
-     "band": "~THB 1300-2000/晚",
-     "why": "芭东中段海滩,日落面"
-    },
-    {
-     "name": "Amari Phuket",
-     "band": "~THB 2500-3500/晚",
-     "why": "北端安静,步行进拳馆,但离酒吧街稍远"
+     "name": "Elite Suites Patong(尊尚芭东套房酒店)",
+     "band": "已订 · 2 晚三人总计 ¥1028(≈¥514/晚)",
+     "why": "房间宽敞、泳池大;在酒吧街北侧,夜间相对安静;门口 7-11/餐厅便利"
     }
    ],
-   "links": "https://www.google.com/travel/hotels/Patong+Beach+Phuket+2026-10-02+2026-10-04"
+   "links": "https://elitesuitespatong.com/"
   }
  ],
  "budget": [
   {
-   "cat": "已购机票(3 段)",
+   "cat": "已购机票(4 段)",
    "per_person": "按购票价",
-   "total": "已购 UO702 / SL753 / FD552",
-   "note": "香港快运+泰国狮子航+泰国亚航;托运按购票时确认"
+   "total": "已购 UO702 / VZ316 / SL753 / FD552",
+   "note": "香港快运+泰国越捷+泰国狮子航+泰国亚航;托运按购票时确认"
   },
   {
-   "cat": "加购转机段 BKK→HKT",
-   "per_person": "~416",
-   "total": "~832 CNY",
-   "note": "9/26 VZ316 22:00 转机(已确认);若延误改 9/27 早班(约 300-500 CNY)"
-  },
-  {
-   "cat": "皮皮岛快艇往返(2 人)",
+   "cat": "皮皮岛快艇往返(3 人)",
    "per_person": "~325",
-   "total": "~650 CNY",
-   "note": "800 THB×2 程(9/30 去 + 10/2 回)≈651 CNY/人"
+   "total": "~976 CNY",
+   "note": "800 THB×2 程(9/30 去 + 10/2 回)×3 人 ≈1,600 THB/人"
   },
   {
-   "cat": "住宿(8 晚)",
-   "per_person": "~2050",
-   "total": "~4100 CNY",
-   "note": "卡塔/卡隆 4 晚(420-500/晚)+ 皮皮岛 2 晚(500/晚)+ 芭东 2 晚(550/晚)"
+   "cat": "住宿(8 晚,已订)",
+   "per_person": "~1387",
+   "total": "~4,160 CNY",
+   "note": "卡隆兰花温泉 4 晚 ¥2085 + 皮皮岛小屋 2 晚 ¥1047 + 尊尚芭东套房 2 晚 ¥1028(三人总计)"
   },
   {
    "cat": "餐饮(9 天)",
    "per_person": "~1100",
-   "total": "~2200 CNY",
-   "note": "拉威海鲜 9/28 两人约 1500-2500 THB;其余按 60-200 THB/顿"
+   "total": "~3,300 CNY",
+   "note": "拉威海鲜 9/28 三人约 2000-3000 THB(安曼达套餐为主);其余按 60-200 THB/人/顿"
   },
   {
    "cat": "活动/门票",
    "per_person": "~1400",
-   "total": "~2800 CNY",
-   "note": "海盗船 1500×2 + 射击 3500×2 + 泰拳 1500×2 + 皮划艇 ~200 ≈ 14,000 THB(参考;海盗船含国家公园费)"
+   "total": "~4,200 CNY",
+   "note": "海盗船 1500×3 + 射击 3500×3 + 泰拳 1500×3 + 皮划艇 ~300 + SPA ~900 ≈20,700 THB(参考;海盗船含国家公园费)"
   },
   {
    "cat": "市内交通",
-   "per_person": "~450",
-   "total": "~900 CNY",
-   "note": "机场/码头/拉威/射击/老城/雅牛/芭东 包车 8-9 次;Grab 为主"
+   "per_person": "~370",
+   "total": "~1,100 CNY",
+   "note": "机场/码头/拉威/射击/雅牛/芭东 包车 8-9 次;3 人建议包车(与 Grab 差价小、更省事)"
   },
   {
    "cat": "杂项/保险/eSIM",
    "per_person": "~300",
-   "total": "~600 CNY",
+   "total": "~900 CNY",
    "note": "旅游险+流量卡+小费"
   },
   {
    "cat": "预估合计(除已购机票)",
-   "per_person": "~6000",
-   "total": "~12000 CNY",
-   "note": "已购机票另计;如加购转机段 ~12000 元/2 人起"
+   "per_person": "~4,880",
+   "total": "~14,600 CNY",
+   "note": "住宿为已订实价;快艇/活动/餐饮为参考价,以预订页为准"
   }
  ],
  "brief": {
@@ -1229,6 +1201,7 @@
   "雅牛海滩皮划艇 100 THB/h、SUP 300 THB/h、浮潜装备 100 THB(phuket101 2026-05 更新);现场为准",
   "卡塔射击场:名称与 3 枪套餐 3500 THB 来自小红书实测;具体枪型/价格请以场地确认(护照原件)",
   "拉威海鲜市场淡季行情 1500-2500 THB 场景为参考,海鲜按当日时价;避雷 P2 摊(入口右手边)",
-  "皮皮岛 POI 主坐标为 Google Geocoding 与 Nominatim 混合(Maya Bay 为 Park Ranger Unit 5 点位,7.675323,98.765810);以导航实测为准"
+  "皮皮岛 POI 主坐标为 Google Geocoding 与 Nominatim 混合(Maya Bay 为 Park Ranger Unit 5 点位,7.675323,98.765810);以导航实测为准",
+  "三家酒店坐标:兰花温泉与皮皮岛小屋来自 OpenStreetMap/Photon 精确点位(7.834382,98.296173 / 7.739166,98.769449),尊尚芭东取自其 Google Maps 嵌入坐标(7.899096,98.302525)—— 本机网络屏蔽 maps.googleapis.com(域名被解析到不可路由地址),未能调用 Google Geocoding API 复核,入住前请以确认单/导航实测为准"
  ]
 }

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document>
 <name>普吉岛 + 皮皮岛 9 天 · 香港进出(重庆回国)</name>
-<Folder><name>Day 1 2026-09-26 — 中转日 · 深夜抵达卡塔</name>
+<Folder><name>Day 1 2026-09-26 — 中转日 · 深夜抵达卡隆</name>
 <Placemark><name>1. 香港国际机场</name><Point><coordinates>113.917300,22.312599,0</coordinates></Point></Placemark>
 <Placemark><name>2. 曼谷素万那普机场</name><Point><coordinates>100.724468,13.721553,0</coordinates></Point></Placemark>
 <Placemark><name>3. 普吉国际机场</name><Point><coordinates>98.305815,8.110132,0</coordinates></Point></Placemark>
-<Placemark><name>4. 卡塔海滩酒店</name><Point><coordinates>98.298050,7.819360,0</coordinates></Point></Placemark>
-<Placemark><name>Day 1 route</name><Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style><LineString><coordinates>113.917300,22.312599,0 100.724468,13.721553,0 98.305815,8.110132,0 98.298050,7.819360,0</coordinates></LineString></Placemark>
+<Placemark><name>4. 兰花温泉酒店(卡隆)</name><Point><coordinates>98.296173,7.834382,0</coordinates></Point></Placemark>
+<Placemark><name>Day 1 route</name><Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style><LineString><coordinates>113.917300,22.312599,0 100.724468,13.721553,0 98.305815,8.110132,0 98.296173,7.834382,0</coordinates></LineString></Placemark>
 </Folder>
 <Folder><name>Day 2 2026-09-27 — 酒店躺平日 · 泳池/沙滩/烧烤</name>
-<Placemark><name>1. 卡塔酒店</name><Point><coordinates>98.298050,7.819360,0</coordinates></Point></Placemark>
-<Placemark><name>2. 卡塔海滩</name><Point><coordinates>98.296000,7.820000,0</coordinates></Point></Placemark>
-<Placemark><name>Day 2 route</name><Style><LineStyle><color>ffff0000</color><width>3</width></LineStyle></Style><LineString><coordinates>98.298050,7.819360,0 98.296000,7.820000,0</coordinates></LineString></Placemark>
+<Placemark><name>1. 兰花温泉酒店(卡隆)</name><Point><coordinates>98.296173,7.834382,0</coordinates></Point></Placemark>
+<Placemark><name>2. 卡隆海滩</name><Point><coordinates>98.293425,7.843957,0</coordinates></Point></Placemark>
+<Placemark><name>Day 2 route</name><Style><LineStyle><color>ffff0000</color><width>3</width></LineStyle></Style><LineString><coordinates>98.296173,7.834382,0 98.293425,7.843957,0</coordinates></LineString></Placemark>
 </Folder>
 <Folder><name>Day 3 2026-09-28 — 拉威海鲜午餐 + 卡塔实弹射击</name>
-<Placemark><name>1. 卡塔酒店</name><Point><coordinates>98.298050,7.819360,0</coordinates></Point></Placemark>
+<Placemark><name>1. 兰花温泉酒店(卡隆)</name><Point><coordinates>98.296173,7.834382,0</coordinates></Point></Placemark>
 <Placemark><name>2. 拉威海鲜市场</name><Point><coordinates>98.328920,7.775740,0</coordinates></Point></Placemark>
 <Placemark><name>3. 卡塔射击场</name><Point><coordinates>98.298050,7.819360,0</coordinates></Point></Placemark>
-<Placemark><name>4. 卡塔酒店</name><Point><coordinates>98.298050,7.819360,0</coordinates></Point></Placemark>
-<Placemark><name>Day 3 route</name><Style><LineStyle><color>ff00aa00</color><width>3</width></LineStyle></Style><LineString><coordinates>98.298050,7.819360,0 98.328920,7.775740,0 98.298050,7.819360,0 98.298050,7.819360,0</coordinates></LineString></Placemark>
+<Placemark><name>4. 兰花温泉酒店(卡隆)</name><Point><coordinates>98.296173,7.834382,0</coordinates></Point></Placemark>
+<Placemark><name>Day 3 route</name><Style><LineStyle><color>ff00aa00</color><width>3</width></LineStyle></Style><LineString><coordinates>98.296173,7.834382,0 98.328920,7.775740,0 98.298050,7.819360,0 98.296173,7.834382,0</coordinates></LineString></Placemark>
 </Folder>
 <Folder><name>Day 4 2026-09-29 — 雅牛海滩皮划艇 + 神仙半岛日落</name>
-<Placemark><name>1. 卡塔酒店</name><Point><coordinates>98.298050,7.819360,0</coordinates></Point></Placemark>
+<Placemark><name>1. 兰花温泉酒店(卡隆)</name><Point><coordinates>98.296173,7.834382,0</coordinates></Point></Placemark>
 <Placemark><name>2. 雅牛海滩</name><Point><coordinates>98.306692,7.767676,0</coordinates></Point></Placemark>
 <Placemark><name>3. 神仙半岛</name><Point><coordinates>98.303392,7.758869,0</coordinates></Point></Placemark>
-<Placemark><name>4. 卡塔酒店</name><Point><coordinates>98.298050,7.819360,0</coordinates></Point></Placemark>
-<Placemark><name>Day 4 route</name><Style><LineStyle><color>ff00aaff</color><width>3</width></LineStyle></Style><LineString><coordinates>98.298050,7.819360,0 98.306692,7.767676,0 98.303392,7.758869,0 98.298050,7.819360,0</coordinates></LineString></Placemark>
+<Placemark><name>4. 兰花温泉酒店(卡隆)</name><Point><coordinates>98.296173,7.834382,0</coordinates></Point></Placemark>
+<Placemark><name>Day 4 route</name><Style><LineStyle><color>ff00aaff</color><width>3</width></LineStyle></Style><LineString><coordinates>98.296173,7.834382,0 98.306692,7.767676,0 98.303392,7.758869,0 98.296173,7.834382,0</coordinates></LineString></Placemark>
 </Folder>
 <Folder><name>Day 5 2026-09-30 — 快艇上岛 · 通赛湾 · 下午休整</name>
-<Placemark><name>1. 卡塔酒店</name><Point><coordinates>98.298050,7.819360,0</coordinates></Point></Placemark>
+<Placemark><name>1. 兰花温泉酒店(卡隆)</name><Point><coordinates>98.296173,7.834382,0</coordinates></Point></Placemark>
 <Placemark><name>2. 拉萨达码头</name><Point><coordinates>98.414783,7.872870,0</coordinates></Point></Placemark>
 <Placemark><name>3. 通赛湾码头</name><Point><coordinates>98.778200,7.737200,0</coordinates></Point></Placemark>
 <Placemark><name>4. 罗达兰湾</name><Point><coordinates>98.775500,7.744800,0</coordinates></Point></Placemark>
-<Placemark><name>Day 5 route</name><Style><LineStyle><color>ffaa00aa</color><width>3</width></LineStyle></Style><LineString><coordinates>98.298050,7.819360,0 98.414783,7.872870,0 98.778200,7.737200,0 98.775500,7.744800,0</coordinates></LineString></Placemark>
+<Placemark><name>Day 5 route</name><Style><LineStyle><color>ffaa00aa</color><width>3</width></LineStyle></Style><LineString><coordinates>98.296173,7.834382,0 98.414783,7.872870,0 98.778200,7.737200,0 98.775500,7.744800,0</coordinates></LineString></Placemark>
 </Folder>
 <Folder><name>Day 6 2026-10-01 — 海盗船全天巡航 · 玛雅湾重开首日</name>
 <Placemark><name>1. 通赛湾码头</name><Point><coordinates>98.778200,7.737200,0</coordinates></Point></Placemark>
@@ -45,22 +45,22 @@
 <Folder><name>Day 7 2026-10-02 — 离岛返普吉 · 芭东海滩 · 泰拳之夜</name>
 <Placemark><name>1. 通赛湾码头</name><Point><coordinates>98.778200,7.737200,0</coordinates></Point></Placemark>
 <Placemark><name>2. 拉萨达码头</name><Point><coordinates>98.414783,7.872870,0</coordinates></Point></Placemark>
-<Placemark><name>3. 芭东酒店</name><Point><coordinates>98.295430,7.896632,0</coordinates></Point></Placemark>
+<Placemark><name>3. 尊尚芭东套房酒店</name><Point><coordinates>98.302525,7.899096,0</coordinates></Point></Placemark>
 <Placemark><name>4. 芭东海滩</name><Point><coordinates>98.295430,7.896632,0</coordinates></Point></Placemark>
 <Placemark><name>5. 芭东泰拳馆</name><Point><coordinates>98.304510,7.897141,0</coordinates></Point></Placemark>
-<Placemark><name>6. 芭东酒店</name><Point><coordinates>98.295430,7.896632,0</coordinates></Point></Placemark>
-<Placemark><name>Day 7 route</name><Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style><LineString><coordinates>98.778200,7.737200,0 98.414783,7.872870,0 98.295430,7.896632,0 98.295430,7.896632,0 98.304510,7.897141,0 98.295430,7.896632,0</coordinates></LineString></Placemark>
+<Placemark><name>6. 尊尚芭东套房酒店</name><Point><coordinates>98.302525,7.899096,0</coordinates></Point></Placemark>
+<Placemark><name>Day 7 route</name><Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style><LineString><coordinates>98.778200,7.737200,0 98.414783,7.872870,0 98.302525,7.899096,0 98.295430,7.896632,0 98.304510,7.897141,0 98.302525,7.899096,0</coordinates></LineString></Placemark>
 </Folder>
 <Folder><name>Day 8 2026-10-03 — 芭东收尾日 · 海滩/SPA/夜市</name>
-<Placemark><name>1. 芭东酒店</name><Point><coordinates>98.295430,7.896632,0</coordinates></Point></Placemark>
+<Placemark><name>1. 尊尚芭东套房酒店</name><Point><coordinates>98.302525,7.899096,0</coordinates></Point></Placemark>
 <Placemark><name>2. 芭东海滩</name><Point><coordinates>98.295430,7.896632,0</coordinates></Point></Placemark>
-<Placemark><name>Day 8 route</name><Style><LineStyle><color>ffff0000</color><width>3</width></LineStyle></Style><LineString><coordinates>98.295430,7.896632,0 98.295430,7.896632,0</coordinates></LineString></Placemark>
+<Placemark><name>Day 8 route</name><Style><LineStyle><color>ffff0000</color><width>3</width></LineStyle></Style><LineString><coordinates>98.302525,7.899096,0 98.295430,7.896632,0</coordinates></LineString></Placemark>
 </Folder>
 <Folder><name>Day 9 2026-10-04 — 返程日 · 双程转机</name>
-<Placemark><name>1. 芭东酒店</name><Point><coordinates>98.295430,7.896632,0</coordinates></Point></Placemark>
+<Placemark><name>1. 尊尚芭东套房酒店</name><Point><coordinates>98.302525,7.899096,0</coordinates></Point></Placemark>
 <Placemark><name>2. 普吉国际机场</name><Point><coordinates>98.305815,8.110132,0</coordinates></Point></Placemark>
 <Placemark><name>3. 曼谷廊曼机场</name><Point><coordinates>100.605480,13.915010,0</coordinates></Point></Placemark>
 <Placemark><name>4. 重庆江北机场</name><Point><coordinates>106.641670,29.719170,0</coordinates></Point></Placemark>
-<Placemark><name>Day 9 route</name><Style><LineStyle><color>ff00aa00</color><width>3</width></LineStyle></Style><LineString><coordinates>98.295430,7.896632,0 98.305815,8.110132,0 100.605480,13.915010,0 106.641670,29.719170,0</coordinates></LineString></Placemark>
+<Placemark><name>Day 9 route</name><Style><LineStyle><color>ff00aa00</color><width>3</width></LineStyle></Style><LineString><coordinates>98.302525,7.899096,0 98.305815,8.110132,0 100.605480,13.915010,0 106.641670,29.719170,0</coordinates></LineString></Placemark>
 </Folder>
 </Document></kml>
